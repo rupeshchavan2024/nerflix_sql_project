@@ -14,7 +14,7 @@
 return top 5 year with highest avg content release!
 11. List all movies that are documentaries
 12. Find all content without a director
-13. Find how many movies actor 'Salman Khan' appeared in last 10 years!
+13. Find how many movies actor 'Salman Khan' appeared in last 15 years!
 14.Categorize the content based on the presence of the keywords 'kill' and'violence' in the description field. Label content containing these keywords as 'Bad' and all other content as 'Good'. Count how many items fall into each category.
 15. Find the oldest movie or TV show on Netflix.
 16. Find the shortest movie on Netflix.
